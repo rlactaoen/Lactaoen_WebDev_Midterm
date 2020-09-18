@@ -1,0 +1,51 @@
+body
+{
+	background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20190831/pngtree-pastel-colorful-background-clouds-image_312444.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 2000px;
+}	
+* {
+  color: #0e0f0f;
+  font-size: 20px;
+  line-height: 1;
+  font-family: "Lucida console";
+}
+
+
+td, th{
+  padding: 10px;
+  text-align: right;
+  text-transform: capitalize;
+  
+}
+
+table{
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: yellow;
+  
+}
+
+th{
+  background: #bfa41f;
+}
+
+#month{
+  background: #;
+  width: 430px;
+  margin: auto;
+  position: relative;
+  top: 60px;
+
+}
+
+h1{
+  font-family: 'Courier New';
+  font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 30px;
+  color: #0e0f0f;
+  text-shadow: 3px 3px 7px #000;
+}
